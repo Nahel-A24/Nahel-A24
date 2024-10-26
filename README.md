@@ -12,6 +12,28 @@
 
 <!-- ABOUT Section -->
 
+<!-- <table>
+  <tr>
+    <td style="width: 50%;">
+      <p>
+        I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make powerful developer tools for others. I aspire to work for some company and develop software that has a positive impact on Society.
+      </p>
+      <p>
+        I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/apurvshah007) page.
+      </p>
+      <p>
+        I am a student developer [@stocksmith](https://github.com/stocksmith) where we actively manage the stocksmith package, an open-source development tool for stock data analysis including smart machine-learning and NLP functions in the backend. I work on writing and maintaining the analytic and machine-learning functions.
+      </p>
+      <p>
+        Do visit my Medium page where I occasionally publish about my experiences exploring the world of open-source development and how this year has been so unique.
+      </p>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVzbGM3ZTFqcHMyenRsMzJ4bjFlZTVocDdqNTZyYTlleDVrYTI5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zLIi7e8GAnb7ksUCbP/giphy.webp" width="700" />
+    </td>
+  </tr>
+</table> -->
+
 <!-- SKILLS Section -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -82,15 +104,6 @@
     
 <br>
 
-- **Other**:
-
-    ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-    
-<br>
-
 - **IDEs/Editors**:
 
     ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
@@ -99,3 +112,13 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
 <br>
+
+<!-- 
+  - **Other**:
+
+    ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    
+<br> -->
